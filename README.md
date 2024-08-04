@@ -6,9 +6,4 @@ Perusahaan asuransi perjalanan menghadapi tantangan dalam mengidentifikasi pelan
 
 # Tujuan yang ingin dicapai
 
-adalah membangun model machine learning yang dapat memprediksi apakah pemegang polis asuransi perjalanan akan mengajukan klaim atau tidak berdasarkan data historis mereka. Dengan memiliki model prediktif yang akurat, perusahaan dapat:
-
-Mengelola risiko dengan lebih baik: Mengidentifikasi pelanggan yang berpotensi mengajukan klaim sehingga dapat mengatur strategi mitigasi risiko yang tepat.
-Menetapkan premi yang lebih tepat: Menyesuaikan premi berdasarkan profil risiko pelanggan untuk memastikan keadilan dan profitabilitas.
-Meningkatkan efisiensi operasional: Mengurangi waktu dan sumber daya yang dihabiskan untuk memproses klaim yang tidak diperlukan.
-Meningkatkan kepuasan pelanggan: Dengan memberikan layanan yang lebih cepat dan efisien kepada pelanggan yang benar-benar membutuhkan pertanggungan.
+adalah membangun model machine learning yang dapat memprediksi apakah pemegang polis asuransi perjalanan akan mengajukan klaim atau tidak berdasarkan data historis mereka dengan memiliki model prediktif yang akurat.
