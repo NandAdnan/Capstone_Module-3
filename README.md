@@ -1,4 +1,4 @@
-# Context
+# Project Introduction
 Asuransi perjalanan adalah jenis asuransi yang memberikan perlindungan selama kita bepergian baik di dalam negeri maupun luar negeri. Beberapa negara bahkan mewajibkan wisatawan untuk memiliki asuransi perjalanan, misalnya, negara-negara di Eropa dan Amerika. Besaran premi tergantung pada pertanggungan yang diinginkan, lama perjalanan, dan tujuan perjalanan. Sebuah perusahaan yang bergerak di bidang asuransi perjalanan ingin mengetahui pemegang polis yang akan mengajukan klaim asuransi untuk pertanggungan. Data pemegang polis di perusahaan asuransi adalah data historis yang terdiri dari tujuan, produk asuransi, dan sebagainya.
 
 # Latar Belakang Permasalahan Bisnis
